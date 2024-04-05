@@ -1,0 +1,29 @@
+a
+{
+text-decoration: none;
+color: black;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+html{
+    scroll-behavior: smooth;
+}
+.cont
+{
+    display: flex;
+    justify-content: right;
+
+}
+.navbar{
+    display: flex;
+}
+i
+{
+    margin-right: 5px;
+}
+img{
+    height: 30px;
+    width: 130px;
+    margin-top: 15px;
+    margin-right: 600px;
+}
