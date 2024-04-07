@@ -123,7 +123,6 @@ i{
 {
     border: solid;
     width: max-content;
-  
     border-radius: 50px;
     border-color: dimgray;
     padding-left: 60px;
@@ -136,4 +135,43 @@ i{
 #h3
 {
    
+}
+#ex2
+{
+    margin-left: 50px;
+  color: dimgray;
+}
+#ex{
+    margin-left: 20px; 
+}
+#ex3
+{
+    margin-left: 15px; 
+    color: dimgray;  
+}
+.exp3
+{
+    border: solid;
+    width: max-content;
+    border-radius: 50px;
+    border-color: dimgray;
+    padding-left: 60px;
+    padding-right: 70px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    
+}
+.pic
+{
+    display: flex;
+}
+.exp
+{
+    display:flex;
+    margin: 10px;
+    margin-right: 10px;
+}
+.exp2{
+    margin-right: 180px;
 }
