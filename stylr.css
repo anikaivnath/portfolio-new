@@ -88,22 +88,29 @@ background-color: darkcyan;
 }
 i{
     padding: 10px;
-    padding-left: 50px;
+    padding-left: 80px;
 }
 .About
 {
     color: dimgray;
     font-family: "Poppins", sans-serif;
-  font-weight: 500;
+
   font-style: normal;
 }
 .more
 {
-    margin-left: 40%;
-    margin-top: 110px;
-    font-family: "Poppins", sans-serif;
+  margin-left: 40%;
+  margin-top: 100px;
+  font-family: "Poppins", sans-serif;
   font-weight: 500;
   font-style: normal;
+}
+.me{
+  
+    font-family: "Poppins", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+
 }
 #pic
 {
@@ -111,4 +118,22 @@ i{
     width: 300px;
     margin-left:80px;
     border-radius: 10px;
+}
+.exp2
+{
+    border: solid;
+    width: max-content;
+  
+    border-radius: 50px;
+    border-color: dimgray;
+    padding-left: 60px;
+    padding-right: 70px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    
+}
+#h3
+{
+   
 }
