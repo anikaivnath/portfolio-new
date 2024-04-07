@@ -198,3 +198,23 @@ margin-left: 25px;
         text-justify: inter-word;
 
 }
+.new2
+{
+    color: dimgray;
+    font-family: "Poppins", sans-serif;
+
+  font-style: normal;
+}
+.new3
+{
+    
+    font-family: "Poppins", sans-serif;
+     font-style: normal;
+}
+.new{
+margin-left: 600px;
+}
+.new3
+{
+    margin-left: -50px;  
+}
