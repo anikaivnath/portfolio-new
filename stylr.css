@@ -6,7 +6,8 @@ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 html{
-    scroll-behavior: smooth;
+scroll-behavior: smooth;
+  
 }
 .cont
 {
@@ -16,14 +17,16 @@ html{
 }
 .navbar{
     display: flex;
+    margin-right: 180px;
 }
 i
 {
     margin-right: 5px;
 }
-img{
-    height: 30px;
-    width: 130px;
-    margin-top: 15px;
-    margin-right: 600px;
+
+.name
+{
+margin-right: 580px;
+text-decoration: none;
+
 }
