@@ -24,7 +24,7 @@ scroll-behavior: smooth;
 }
 i
 {
-    margin-right: 5px;
+   
 }
 
 .name
@@ -85,10 +85,6 @@ img{
 {
 background-color: darkcyan;
     cursor: pointer;
-}
-i{
-    padding: 10px;
-    padding-left: 80px;
 }
 .About
 {
@@ -279,4 +275,11 @@ width: max-content;
 {
     padding-left:50px;
     padding-right:50px;
+}
+
+.full ol{
+margin-left: -55px;
+}
+.full ol i{
+    margin: 2px;
 }
