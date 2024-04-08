@@ -218,10 +218,52 @@ margin-left: 600px;
 {
     margin-left: -50px;  
 }
+
+.dev2,h1{
+    padding-left:50px;
+    padding-right:50px;
+}
+.dev3
+{
+    font-family: "Poppins", sans-serif;
+    font-weight: 500;
+    font-style: normal; 
+    
+
+}
+
+  
 .dev
 {
 border: solid;
 width: max-content;
 margin-top: 40px;
+border-radius: 10px;
 
+
+}
+.list1
+{
+    float: left;
+    font-family: "Poppins", sans-serif;
+    font-weight: 500;
+    font-style: normal; 
+ 
+    
+   
+    
+}
+.list2
+{
+    margin-top: 35px;
+    padding-left: 120px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 500;
+    font-style: normal; 
+    
+}
+
+.fa-solid fa-circle-check
+{
+    margin-right: 100px;
 }
