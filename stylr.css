@@ -239,6 +239,7 @@ width: max-content;
 margin-top: 40px;
 border-radius: 20px;
 width: max-content;
+margin-left: 100px;
 }
 .list1
 {
@@ -258,10 +259,18 @@ width: max-content;
 .Back
 {
     float: left;  
+    font-family: "Poppins", sans-serif;
+    font-weight: 500;
+    font-style: normal; 
+    
 }
 .Back2
 {
    margin-left:200px ;
+   font-family: "Poppins", sans-serif;
+   font-weight: 500;
+   font-style: normal; 
+   
 }
 .dev7
 {
@@ -270,16 +279,14 @@ width: max-content;
 margin-top: 40px;
 border-radius: 20px;
 width: max-content;
+margin-left: 100px;
 }
 .Dev6
 {
     padding-left:50px;
     padding-right:50px;
-}
-
-.full ol{
-margin-left: -55px;
-}
-.full ol i{
-    margin: 2px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 500;
+    font-style: normal; 
+    
 }
