@@ -24,7 +24,7 @@ scroll-behavior: smooth;
 }
 i
 {
-    margin-right: 5px;
+   
 }
 
 .name
@@ -85,10 +85,6 @@ img{
 {
 background-color: darkcyan;
     cursor: pointer;
-}
-i{
-    padding: 10px;
-    padding-left: 80px;
 }
 .About
 {
@@ -293,9 +289,4 @@ margin-left: 100px;
     font-weight: 500;
     font-style: normal; 
     
-}
-.full
-{
-    display: flex;
-
 }
