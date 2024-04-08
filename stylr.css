@@ -219,7 +219,7 @@ margin-left: 600px;
     margin-left: -50px;  
 }
 
-.dev2,h1{
+.dev2{
     padding-left:50px;
     padding-right:50px;
 }
@@ -233,37 +233,50 @@ margin-left: 600px;
 }
 
   
+
+
+
 .dev
 {
 border: solid;
 width: max-content;
 margin-top: 40px;
-border-radius: 10px;
-
-
+border-radius: 20px;
+width: max-content;
 }
 .list1
 {
     float: left;
     font-family: "Poppins", sans-serif;
     font-weight: 500;
-    font-style: normal; 
- 
-    
-   
-    
+    font-style: normal;
 }
 .list2
-{
-    margin-top: 35px;
-    padding-left: 120px;
-    font-family: "Poppins", sans-serif;
+{  
+   margin-left: 200px;
+    margin-top: 20px;
+   font-family: "Poppins", sans-serif;
     font-weight: 500;
     font-style: normal; 
-    
 }
-
-.fa-solid fa-circle-check
+.Back
 {
-    margin-right: 100px;
+    float: left;  
+}
+.Back2
+{
+   margin-left:200px ;
+}
+.dev7
+{
+    border: solid;
+width: max-content;
+margin-top: 40px;
+border-radius: 20px;
+width: max-content;
+}
+.Dev6
+{
+    padding-left:50px;
+    padding-right:50px;
 }
