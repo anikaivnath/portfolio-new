@@ -321,5 +321,40 @@ margin-top: -15px;
 }
 .project img{
     height:400px;
-    width:200px;
+    width:300px;
+ border-radius: 50px;
+
+}
+.pro1
+{
+margin-left: 60px;
+color: black;
+}
+.project button
+{
+padding-top: 15px;
+padding-bottom: 15px;
+padding-left: 40px;
+padding-right: 40px;
+margin-left: 10px;
+border-radius: 510px;
+background-color: rgb(255, 255, 255);
+    font-family: "Poppins", sans-serif;
+    font-style: normal;
+}
+.project .btn2
+{
+    margin-left: 8px;
+}
+.project .btn1
+{
+    margin-left: 5px; 
+}
+.project
+{
+    border: solid;
+    width: max-content;
+    padding: 10px;
+    border-radius: 50px;
+    color: gray;
 }
