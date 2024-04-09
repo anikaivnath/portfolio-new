@@ -33,7 +33,7 @@ margin-right: 580px;
 text-decoration: none;
 
 }
-img{
+.img img{
     height: 200px;
     width:200px;
     border-radius: 100px;
@@ -265,7 +265,6 @@ margin-left: 100px;
 {
    margin-left:200px ;
    font-family: "Poppins", sans-serif;
-  
    font-style: normal; 
    margin-top: 37px;
    
@@ -308,3 +307,19 @@ margin-top: -15px;
     margin-top: 80px;
 }
 
+.line1
+{
+    color: dimgray;
+    font-family: "Poppins", sans-serif;
+    font-style: normal;
+}
+.line2
+{
+    
+    font-family: "Poppins", sans-serif;
+     font-style: normal;
+}
+.project img{
+    height:400px;
+    width:200px;
+}
