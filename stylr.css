@@ -458,3 +458,33 @@ color: black;
 {
     margin-left: 50px;
 }
+.browser1
+{
+    text-align: center;
+    margin-top: 80px;
+}
+
+.line3
+{
+    color: dimgray;
+    font-family: "Poppins", sans-serif;
+    font-style: normal;
+}
+.line4
+{
+    
+    font-family: "Poppins", sans-serif;
+     font-style: normal;
+}
+.browser1 button
+{
+padding-top: 15px;
+padding-bottom: 15px;
+padding-left: 40px;
+padding-right: 40px;
+margin-left: 10px;
+border-radius: 510px;
+background-color: rgb(255, 255, 255);
+    font-family: "Poppins", sans-serif;
+    font-style: normal;
+}
