@@ -325,10 +325,10 @@ margin-top: -15px;
  border-radius: 50px;
 
 }
-.pro1
+.pro1 
 {
-margin-left: 60px;
-color: black;
+    margin-left: 90px;
+    color: black;
 }
 .project button
 {
@@ -357,4 +357,104 @@ background-color: rgb(255, 255, 255);
     padding: 10px;
     border-radius: 50px;
     color: gray;
+}
+.project2 img{
+    height:400px;
+    width:300px;
+ border-radius: 50px;
+
+}
+.project2 .btn3
+{
+    margin-left: 8px;
+}
+.project2 .btn4
+{
+    margin-left: 5px; 
+}
+.project2
+{
+    border: solid;
+    width: max-content;
+    padding: 10px;
+    border-radius: 50px;
+    color: gray;
+}
+.project2 button
+{
+padding-top: 15px;
+padding-bottom: 15px;
+padding-left: 40px;
+padding-right: 40px;
+margin-left: 10px;
+border-radius: 510px;
+background-color: rgb(255, 255, 255);
+    font-family: "Poppins", sans-serif;
+    font-style: normal;
+}
+.pro2
+{
+margin-left: 90px;
+color: black;
+}
+.project3 img{
+    height:400px;
+    width:300px;
+ border-radius: 50px;
+
+}
+.project3 .btn5
+{
+    margin-left: 8px;
+}
+.project3 .btn6
+{
+    margin-left: 5px; 
+}
+.project3
+{
+    border: solid;
+    width: max-content;
+    padding: 10px;
+    border-radius: 50px;
+    color: gray;
+}
+.project3 button
+{
+padding-top: 15px;
+padding-bottom: 15px;
+padding-left: 40px;
+padding-right: 40px;
+margin-left: 10px;
+border-radius: 510px;
+background-color: rgb(255, 255, 255);
+    font-family: "Poppins", sans-serif;
+    font-style: normal;
+}
+.pro3
+{
+    margin-left: 90px;
+color: black;
+
+}
+.fullproject
+{
+    display: flex;
+    padding-left: 10px;
+}
+
+.pr{
+    margin-right: 50px;
+    margin-left: 20px;
+   
+}
+.pr2
+    {
+        margin-right: 50px;
+        margin-left: 20px;
+    
+}
+.fullproject
+{
+    margin-left: 50px;
 }
