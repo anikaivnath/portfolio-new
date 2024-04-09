@@ -23,6 +23,7 @@ scroll-behavior: smooth;
 .navbar{
     display: flex;
     margin-right: 180px;
+    
 }
 i
 {
@@ -448,8 +449,8 @@ color: black;
 }
 
 .pr{
-    margin-right: 50px;
-    margin-left: 20px;
+    margin-right: 45px;
+   
    
 }
 .pr2
@@ -460,7 +461,8 @@ color: black;
 }
 .fullproject
 {
-    margin-left: 50px;
+    margin-left: 85px;
+ 
 }
 .browser1
 {
@@ -491,4 +493,47 @@ border-radius: 510px;
 background-color: rgb(255, 255, 255);
     font-family: "Poppins", sans-serif;
     font-style: normal;
+}
+.contt
+{
+    text-align: center;
+    margin-top: 50px;
+    margin-left: 35%;
+    color: dimgray;
+    font-family: "Poppins", sans-serif;
+    font-style: normal;
+}
+.fltbtn {
+    display: flex;
+    justify-content: right;
+    position: fixed; /* Fix the position to make it float */
+    bottom: 20px; /* Set the distance from the bottom */
+    right: 20px; /* Set the distance from the right edge */
+    z-index: 999;
+  /* Ensure it stays on top of other elements */
+  }
+  .fltbtn
+  {
+    display: block;
+  }
+  
+  .fltbtn a {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #007bff; /* Optional background color */
+    color: #fff; /* Optional text color */
+    padding: 10px; /* Adjust padding as needed */
+    border-radius: 50%; /* Make it a circle */
+  }
+  
+  .fltbtn i {
+    font-size: 30px;
+  }
+  #flt {
+    display: none; /* Hide initially */
+    position: fixed;
+    bottom: 20px;
+    right: 30px;
+    z-index: 999; /* Ensure it stays above other content */
 }
