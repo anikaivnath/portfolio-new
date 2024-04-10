@@ -25,9 +25,11 @@ scroll-behavior: smooth;
     margin-right: 180px;
     
 }
-i
+.navbar
 {
-   
+    font-family: "Poppins", sans-serif;
+    font-weight: 500;
+    font-style: normal;
 }
 
 .name
@@ -629,3 +631,12 @@ background-color: rgb(255, 255, 255);
     right: 30px;
     z-index: 999; /* Ensure it stays above other content */
 }
+.contt .navbar
+{
+    margin-top: -20px;
+}
+.footer
+{
+    text-align: center;
+}
+
