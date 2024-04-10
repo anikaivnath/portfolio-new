@@ -68,6 +68,7 @@ text-decoration: none;
     font-family: "Poppins", sans-serif;
   font-weight: 500;
   font-style: normal;
+  margin-top: -23px;
 }
 .third
 {
@@ -75,6 +76,7 @@ text-decoration: none;
     font-family: "Poppins", sans-serif;
     font-weight: 500;
     font-style: normal;
+    margin-top: -23px;
 }
 .btn
 {
@@ -83,6 +85,14 @@ text-decoration: none;
     font-family: "Poppins", sans-serif;
    font-weight: 500;
    font-style: normal;
+}
+.img i{
+    float: left;
+    margin-left: 50px;
+}
+.img #I2{
+    margin-left:10px;
+
 }
 .btn:hover
 {
@@ -110,7 +120,7 @@ background-color: darkcyan;
     font-family: "Poppins", sans-serif;
     font-weight: 500;
     font-style: normal;
-
+    margin-top: -25px;
 }
 #pic
 {
@@ -142,6 +152,7 @@ background-color: darkcyan;
 {
     margin-left: 50px;
   color: dimgray;
+  margin-top: -20px;
 }
 #Edu2
 {
@@ -149,22 +160,25 @@ background-color: darkcyan;
 }
 #ex{
     margin-left: 20px; 
+    margin-top: -20px;
 }
 #ex3
 {
     margin-left: 15px; 
-    color: dimgray;  
+    color: dimgray;
+    margin-top: -20px; 
+    margin-left: 5px; 
 }
 .exp3
 {
     border: solid;
-    width: max-content;
+   
     border-radius: 50px;
     border-color: dimgray;
     padding-left: 60px;
     padding-right: 70px;
     font-family: "Poppins", sans-serif;
-    font-weight: 300;
+    font-weight: 300px;
     margin-bottom: 80PX;
     margin-top: 10PX;
     font-style: normal;
@@ -186,9 +200,24 @@ background-color: darkcyan;
     margin-right:50Px;
 
 }
+.exp2 #user
+{
+    margin-left: 70px;
+}
+.exp3 #user2
+{
+    margin-left: 70px;
+}
+
 #Edu
 {
 margin-left: 25px;
+margin-top: -20px;
+}
+#Edu2
+{
+    margin-top: -20px;
+
 }
 .txt
 {
@@ -196,20 +225,23 @@ margin-left: 25px;
     font-weight: 500;
     font-style: normal;  
     text-align: justify;
-        text-justify: inter-word;
-
+    text-justify: inter-word;
+    margin-left: 50px;
+    margin-right: 50px;
 }
 .new2
 {
     color: dimgray;
     font-family: "Poppins", sans-serif;
     font-style: normal;
+    margin-top: 50px;
 }
 .new3
 {
     
     font-family: "Poppins", sans-serif;
      font-style: normal;
+     margin-top: -25px;
 }
 .new{
 margin-left: 600px;
