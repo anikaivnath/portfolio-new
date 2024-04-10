@@ -86,6 +86,17 @@ text-decoration: none;
    font-weight: 500;
    font-style: normal;
 }
+
+.section .btn2
+{
+    border-radius: 15px;
+    padding: 7px;
+    font-family: "Poppins", sans-serif;
+   font-weight: 500;
+   font-style: normal;
+   background-color: black;
+   color: antiquewhite;
+}
 .img i{
     float: left;
     margin-left: 50px;
@@ -96,8 +107,16 @@ text-decoration: none;
 }
 .btn:hover
 {
-background-color: darkcyan;
+background-color: grey;
     cursor: pointer;
+  color: aliceblue;
+}
+.btn2:hover
+{
+    background-color: grey;
+    cursor: pointer;
+  color: aliceblue;
+    
 }
 .About
 {
@@ -270,24 +289,45 @@ margin-left: 600px;
 border: solid;
 width: max-content;
 margin-top: 40px;
-border-radius: 20px;
+border-radius: 40px;
 width: max-content;
 margin-left: 100px;
+ border-color: dimgray;
+
 }
 .list1
 {
     float: left;
     font-family: "Poppins", sans-serif;
-    font-weight: 500;
+    
     font-style: normal; 
+}
+.list1 .Expe
+{
+    color: dimgray;
+}
+.list2 .Expe
+{
+    color: dimgray;
+}
+.list1 h3
+{
+font-weight: normal;
+
+}
+.list2 h3
+{
+    font-weight: normal;
+    color: black;
+
 }
 .list2
 {  
-   margin-left: 200px;
-    margin-top: 33px;
+   margin-left: 190px;
+    margin-top: 37px;
    font-family: "Poppins", sans-serif;
-    font-weight: 500;
-    font-style: normal; 
+   font-style: normal;
+
 
 }
 .Back
@@ -298,6 +338,18 @@ margin-left: 100px;
     font-style: normal; 
     
 }
+.Back h3{
+    font-weight: normal;
+}
+.Back .Expe
+{
+    color: dimgray;
+}
+.Back2 .Expe
+{
+    color: dimgray;
+}
+
 .Back2
 {
    margin-left:200px ;
@@ -306,21 +358,26 @@ margin-left: 100px;
    margin-top: 37px;
    
 }
+.Back2 h3
+{
+    font-weight: normal;
+}
 .dev7
 {
     border: solid;
     margin-top: 40px;
-    border-radius: 20px;
+    border-radius: 40px;
     width: max-content;
     margin-left: 100px;
+    border-color: dimgray;
 }
-.Dev6
+.Dev6 h1
 {
-    padding-left:50px;
-    padding-right:50px;
-    font-family: "Poppins", sans-serif;
-
-    font-style: normal; 
+   
+        padding-left:80px;
+        padding-right:50px;
+       
+   
 }
 .full ol{
     margin-left: -55px;
@@ -332,6 +389,7 @@ margin-left: 100px;
     }
 .full{
     display: flex;
+    margin-left: 100px;
 }
 .full p
 {
@@ -355,6 +413,7 @@ margin-top: -15px;
     
     font-family: "Poppins", sans-serif;
      font-style: normal;
+     margin-top: -20px;
 }
 .project img{
     height:400px;
@@ -513,6 +572,7 @@ color: black;
     
     font-family: "Poppins", sans-serif;
      font-style: normal;
+     margin-top: -20px;
 }
 .browser1 button
 {
