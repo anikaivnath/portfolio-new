@@ -34,10 +34,15 @@ scroll-behavior: smooth;
 
 .name
 {
-margin-right: 580px;
-text-decoration: none;
+
+margin-right: 590px;
+
 
 }
+.name img{
+height: 40px;
+}
+
 .img img{
     height: 200px;
     width:200px;
