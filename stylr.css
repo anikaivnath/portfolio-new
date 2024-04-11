@@ -4,8 +4,43 @@ html{
     scroll-behavior: auto;
     flex-wrap: wrap;
 }
+@media only screen and (max-width: 768px) {
+    /* Styles for screens smaller than 768px */
+}
+@media only screen and (max-width: 480px) {
+    /* Styles for screens smaller than 480px */
+}
+
+/* Styles for smaller screens */
+@media only screen and (max-width: 768px) {
+    .name {
+        margin-right: 20px; /* Adjust margins */
+    }
+    .navbar {
+        margin-right: 20px; /* Adjust margins */
+    }
+    .img {
+        flex-direction: column; /* Stack image and section vertically */
+        align-items: center; /* Center items */
+    }
+    .img img {
+        margin: 0; /* Remove margins */
+    }
+    .section {
+        text-align: center; /* Center text */
+        margin-top: 20px; /* Adjust spacing */
+    }
+    .txt {
+        margin: 20px; /* Adjust spacing */
+    }
+    /* Add more styles as needed */
+}
+
+
+
 a
 {
+
 text-decoration: none;
 color: black;
 font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -203,8 +238,7 @@ background-color: grey;
 .exp3
 {
     border: solid;
-   
-    border-radius: 50px;
+   border-radius: 50px;
     border-color: dimgray;
     padding-left: 60px;
     padding-right: 70px;
